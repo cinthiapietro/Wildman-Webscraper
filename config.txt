@@ -1,0 +1,9 @@
+# config.txt
+URL=https://ENTER YOUR DETAILS HERE/AnimalExportMultipleForm.php
+USER_AGENT=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+
+# Cookies
+PHPSESSID=99d4ed6f939e29678c704cbdd24a0056
+WildManUserid=ENTER YOUR DETAILS HERE
+WildManPassword=ENTER YOUR DETAILS HERE
+WildManRemember=Y
