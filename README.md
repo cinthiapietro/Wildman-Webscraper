@@ -35,7 +35,7 @@ Run script. This script logs into the Wildman export page and retrieves XML reco
 
 •	Input: numbers.csv – each row contains one record ID. No header.
 •	Output: Consolidated_WildManExport.csv – a combined csv file containing all records. 
-•	Output details (change as desired):
+•	Output details (change as desired in 'body request template' section of code):
         "Animal_Number",
         "Animal_Scientific_Name",
         "Animal_Birth_Date",
