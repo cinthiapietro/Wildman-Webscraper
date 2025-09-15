@@ -1,6 +1,6 @@
-Instructional Guide: Scraping Rehabilitation Data from Wildman
+**Scraping Rehabilitation Data from Wildman**
 Cinthia Pietromonaco, Matias Villalba Lara
-cinthia.pietromonaco@sydney.edu.au
+contact: cinthia.pietromonaco@sydney.edu.au
 
 **PERMISSION AND USER ACCESS MUST BE GRANT BY GROUP PRIOR TO SCRAPING**
 
